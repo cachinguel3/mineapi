@@ -12,7 +12,9 @@ public class DemoApplication {
 
 }
 
-public class Test {
+ class Test {
 
-  public static void main
+    public static void main() {
+
+    }
 }
